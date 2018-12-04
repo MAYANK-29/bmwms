@@ -1,0 +1,14 @@
+{
+  "_id": "router_master",
+  "_rev": "1-953cccf2554dca0dfab3027cb93f4597",
+  "users": [
+    {
+      "username": "admin@alliance.com",
+      "database": "alliance"
+    },
+    {
+      "username": "admin@apollo.com",
+      "database": "apollo"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "user_master",
+  "users":
+  [
+
+  	{
+  		"emp_code":"001",
+  		"emp_username" : "admin",
+  		"emp_password" : "admin",
+  		"emp_isactive" : true,
+  		"emp_issassigned" : true ,
+  		"emp_isdeleted" : false,
+   	}
+
+  ] 
+}
